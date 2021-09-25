@@ -86,6 +86,7 @@ rtp://@239.1.1.226:9332
 rtp://@239.1.1.185:9084
 
 #EXTINF:-1 tvg-logo="http://rodja.tv/web/wp-content/uploads/logo-rodjatv.png" group-title="Local Channel",[29] Rodja TV
+rtp://@239.1.1.224:9320
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" group-title="Local Channel",[30] MQTV
 rtp://@239.1.1.213:9252
@@ -95,4 +96,4 @@ rtp://@239.1.1.150:8874
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Local Channel",[32] RCTI
 https://list.iptvcat.com/my_list/s/b8fe7c4408ca54c30a6101352f5e9fe1.m3u8
-rtp://@239.1.1.224:9320
+
