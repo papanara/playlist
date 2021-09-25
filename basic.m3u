@@ -93,6 +93,3 @@ rtp://@239.1.1.213:9252
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="Local Channel",[31] TV9
 rtp://@239.1.1.150:8874
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Local Channel",[32] RCTI
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
