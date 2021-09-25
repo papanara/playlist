@@ -81,3 +81,15 @@ rtp://@239.1.1.44:8238
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/96/Bioskop_Indonesia_Transvision.png" group-title="Local Channel",[27] Bioskop Indonesia
 rtp://@239.1.1.226:9332
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Local Channel",[28] Al Quran Al Kareem
+rtp://@239.1.1.185:9084
+
+#EXTINF:-1 tvg-logo="http://rodja.tv/web/wp-content/uploads/logo-rodjatv.png" group-title="Local Channel",[29] Rodja TV
+rtp://@239.1.1.224:9320
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" group-title="Local Channel",[30] MQTV
+rtp://@239.1.1.213:9252
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="Local Channel",[31] TV9
+rtp://@239.1.1.150:8874
