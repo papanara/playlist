@@ -1,9 +1,6 @@
 #EXTM3U
 
 #LOCAL
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Local Channel",[0] RCTI
-https://kelaswafa.github.io/pengumuman-iptv/movie/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" group-title="Local Channel",[1] TVRI
 rtp://@239.1.1.37:8196
 
@@ -89,6 +86,9 @@ rtp://@239.1.1.226:9332
 rtp://@239.1.1.185:9084
 
 #EXTINF:-1 tvg-logo="http://rodja.tv/web/wp-content/uploads/logo-rodjatv.png" group-title="Local Channel",[29] Rodja TV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Local Channel",[30] RCTI
+https://kelaswafa.github.io/pengumuman-iptv/movie/playlist.m3u8
 rtp://@239.1.1.224:9320
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" group-title="Local Channel",[30] MQTV
