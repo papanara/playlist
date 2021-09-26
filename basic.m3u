@@ -5,7 +5,7 @@
 rtp://@239.1.1.37:8196
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[2] Metro TV
-http://192.168.29.209/siaran/
+rtp://@239.1.1.19:8088
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Local Channel",[3] CNN Indonesia
 rtp://@239.1.1.241:9362
