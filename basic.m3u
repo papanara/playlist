@@ -1,6 +1,9 @@
 #EXTM3U
 
 #LOCAL
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" group-title="Local Channel",[1] TVRI
+rtp://@239.1.1.37:8196
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[2] Metro TV
 rtp://@239.1.1.19:8088
 
