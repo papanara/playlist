@@ -1,7 +1,6 @@
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml
 
-#EXTINF:-1 tvg-chno="" tvg-id="Nusantara.id" tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png" group-title="Local Channel", Nusantara TV
-rtp://@239.1.2.102:9522
+
 #EXTINF:-1 tvg-chno="38" tvg-id="GarudaTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Garuda_TV_Logo.png" group-title="Local Channel", GARUDA TV
 rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-chno="38" tvg-id="INews.id" tvg-logo="http://images.useetv.com/logo_inews_big.png" group-title="Local Channel",  iNEWS (129)
@@ -10,8 +9,6 @@ rtp://@239.1.1.212:8967
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-chno="38" tvg-id="OchannelTV.id"tvg-logo="http://images.useetv.com/logo_ochannel_big.png" group-title="Local Channel",  O Channel (125)
 rtp://@239.1.1.144:8845
-#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="Nonstop Entertainment (2)" tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",Nonstop Entertainment (2)
-rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-chno="3" tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel",TVRI (100)
 rtp://@239.1.1.37:8196
 #EXTINF:-1 tvg-chno="5" tvg-id="MetroTV.id" tvg-name="Metro TV HD (915)" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",Metro TV HD (915)
@@ -42,12 +39,6 @@ rtp://@239.1.1.107:8616
 rtp://@239.1.1.69:8388
 #EXTINF:-1 tvg-chno="24" tvg-id="IDXChannel.id" tvg-name="IDX Channel (119)" tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="Local Channel",IDX Channel (119)
 rtp://@239.1.2.248:9398
-#EXTINF:-1 tvg-chno="25" tvg-id="DaaiTv.id" tvg-name="Daai TV (120)" tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",Daai TV (120)
-rtp://@239.1.1.179:9048
-#EXTINF:-1 tvg-chno="26" tvg-id="BaliTV.id" tvg-name="Bali TV (122)" tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",Bali TV (122)
-rtp://@239.1.1.72:8406
-#EXTINF:-1 tvg-chno="27" tvg-id="JTV.id" tvg-name="JTV (123)" tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",JTV (123)
-rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-chno="28" tvg-id="AntaraTV.id" tvg-name="Antara (124)" tvg-logo="https://images.useetv.com/logo_antara_big1.png" group-title="Local Channel",Antara (124)
 rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-chno="31" tvg-id="TVEdukasi.id" tvg-name="TV Edukasi (127)" tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",TV Edukasi (127)
@@ -171,8 +162,6 @@ rtp://@239.1.2.229:9330
 rtp://@239.1.1.247:9440
 
 
-#EXTINF:-1 tvg-chno="128" tvg-id="indikids.id" tvg-name="indikids.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indikids_small.png" group-title="Kids",Indikids HD (930)
-rtp://@239.1.1.201:9180
 #EXTINF:-1 tvg-chno="129" tvg-id="Mykidz.id" tvg-name="Mykidz.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_big.png" group-title="Kids",M Kidz (302)
 rtp://@239.1.1.47:8256
 #EXTINF:-1 tvg-chno="130" tvg-id="DaVinci.id" tvg-name="DaVinci.id" tvg-logo="http://images.useetv.com/logo_davinci_big1.png" group-title="Premium Kids",Da Vinci Learning (303)
@@ -236,8 +225,6 @@ rtp://@239.1.2.104:9526
 rtp://@239.1.1.174:9018
 #EXTINF:-1 tvg-chno="181" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan HD (987)" tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",NHK World Japan HD (987)
 rtp://@239.1.2.239:9354
-#EXTINF:-1 tvg-chno="184" tvg-id="STAR Chinese HD" tvg-name="Star Chinese (521)" tvg-logo="https://images.useetv.com/logo_starchinesechannel_big.png" group-title="Gen Entertainment",Star Chinese HD(968)
-rtp://@239.1.2.231:9336
 #EXTINF:-1 tvg-chno="186" tvg-id="Kplus.id" tvg-name="KPlus.id" tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="Gen Entertainment",KPlus HD (952)
 rtp://@239.1.1.202:9186
 #EXTINF:-1 tvg-chno="187" tvg-id="Formosa.id" tvg-name="Formosa.id" tvg-logo="http://images.useetv.com/logo_formosa_big.png" group-title="Gen Entertainment",Formosa (524)
@@ -277,10 +264,6 @@ rtp://@239.1.1.185:9084
 rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="MQTV (854)" tvg-logo="http://images.useetv.com/logo_mqtv_big1.png" group-title="Religious",MQTV (854)
 rtp://@239.1.1.213:9252
-#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-name="TV9 (855)" tvg-logo="http://images.useetv.com/logo_tv9_big1.png" group-title="Religious",TV9 (855)
-rtp://@239.1.1.150:8874
-#EXTINF:-1 tvg-chno="206" tvg-id="" tvg-name="tvMu (856)" tvg-logo="http://images.useetv.com/logo_muhammadiyahtv_big1.png" group-title="Religious",tvMu (856)
-rtp://@239.1.1.170:8994
 #EXTINF:-1 tvg-chno="207" tvg-id="TawafTV.id" tvg-name="Tawaf TV" tvg-logo="http://images.useetv.com/logo_tawaftv_big.png" group-title="Religious",Tawaf TV (858)
 rtp://@239.1.2.236:9366
 #EXTINF:-1 tvg-chno="208" tvg-id="" tvg-name="TV MUI (860)" tvg-logo="http://images.useetv.com/logo_tvmui_big1.png" group-title="Religious",TV MUI (860)
