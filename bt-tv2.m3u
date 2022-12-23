@@ -1,25 +1,16 @@
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-logo="" group-title="New Added",FOX MOVIES HD
-rtp://239.1.1.211:9240
-#EXTINF:-1 tvg-chno="144" tvg-id="" tvg-logo="" group-title="New Added",Fox Action Movies HD
-rtp://239.1.1.190:9116
-#EXTINF:-1 tvg-chno="145" tvg-id="" tvg-logo="" group-title="New Added",Fox Family HD
-rtp://239.1.1.237:9396
-#EXTINF:-1 tvg-chno="147" tvg-id="" tvg-logo="" group-title="New Added",FOX Crime HD
-rtp://239.1.2.225:9318
-#EXTINF:-1 tvg-chno="148" tvg-id="" tvg-logo="" group-title="New Added",FOX HD
-rtp://239.1.1.247:9440
-#EXTINF:-1 tvg-chno="149" tvg-id="" tvg-logo="" group-title="New Added",FOX Life HD
-rtp://239.1.1.209:9228
-#EXTINF:-1 tvg-chno="150" tvg-id="" tvg-logo="" group-title="New Added",Nat Geo People HD
-rtp://239.1.2.229:9330
-#EXTINF:-1 tvg-chno="153" tvg-id="" tvg-logo="" group-title="New Added",Fox Sport
-rtp://239.1.1.103:8592
-#EXTINF:-1 tvg-chno="154" tvg-id="" tvg-logo="" group-title="New Added",Fox Sports 2
-rtp://239.1.1.101:8580
-#EXTINF:-1 tvg-chno="155" tvg-id="" tvg-logo="" group-title="New Added",Fox Sports 3
-rtp://239.1.1.53:8292
-#EXTINF:-1 tvg-chno="157" tvg-id="" tvg-logo="" group-title="New Added",Star Chinese Movie Legend
-rtp://239.1.1.151:8880
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
