@@ -1,0 +1,53 @@
+#EXTINF:0,[980] Champion TV 1 HD
+rtp://239.1.2.216:9226
+
+#EXTINF:0,[981] Champion TV 2 HD
+rtp://239.1.2.218:9238
+
+#EXTINF:0,[995] RED HD by HBO
+rtp://239.1.1.133:8772
+
+#EXTINF:0,[998] FOX MOVIES HD
+rtp://239.1.1.211:9240
+
+#EXTINF:0,[999] Fox Action Movies HD
+rtp://239.1.1.190:9116
+
+#EXTINF:0,[997] Fox Family HD
+rtp://239.1.1.237:9396
+
+#EXTINF:0,[959] WakuWaku Japan HD
+rtp://239.1.1.244:9434
+
+#EXTINF:0,[956] FOX Crime HD
+rtp://239.1.2.225:9318
+
+#EXTINF:0,[951] FOX HD
+rtp://239.1.1.247:9440
+
+#EXTINF:0,[950] FOX Life HD
+rtp://239.1.1.209:9228
+
+#EXTINF:0,[941] Nat Geo People HD
+rtp://239.1.2.229:9330
+
+#EXTINF:0,[905] Usee Sport HD
+rtp://239.1.2.44:8122
+
+#EXTINF:0,[906] Usee Sports 2 HD
+rtp://239.1.2.213:9210
+
+#EXTINF:0,[705] Fox Sport
+rtp://239.1.1.103:8592
+
+#EXTINF:0,[706] Fox Sports 2
+rtp://239.1.1.101:8580
+
+#EXTINF:0,[707] Fox Sports 3
+rtp://239.1.1.53:8292
+
+#EXTINF:0,[622] Star Chinese Movie
+rtp://239.1.1.131:8760
+
+#EXTINF:0,[623] Star Chinese Movie Legend
+rtp://239.1.1.151:8880
