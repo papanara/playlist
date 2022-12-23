@@ -1,20 +1,5 @@
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml
 
-#NEED UPDATED
-#EXTINF:-1 tvg-chno="140" tvg-id="" tvg-logo="" group-title="New Added",Champion TV 1 HD
-#rtp://239.1.2.216:9226
-#EXTINF:-1 tvg-chno="141" tvg-id="" tvg-logo="" group-title="New Added",Champion TV 2 HD
-#rtp://239.1.2.218:9238
-#EXTINF:-1 tvg-chno="142" tvg-id="" tvg-logo="" group-title="New Added",RED HD by HBO
-#rtp://239.1.1.133:8772
-#EXTINF:-1 tvg-chno="146" tvg-id="" tvg-logo="" group-title="New Added",WakuWaku Japan HD
-#rtp://239.1.1.244:9434
-#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-logo="" group-title="New Added",Usee Sport HD
-#rtp://239.1.2.44:8122
-#EXTINF:-1 tvg-chno="152" tvg-id="" tvg-logo="" group-title="New Added",Usee Sports 2 HD
-#rtp://239.1.2.213:9210
-#EXTINF:-1 tvg-chno="156" tvg-id="" tvg-logo="" group-title="New Added",Star Chinese Movie
-#rtp://239.1.1.131:8760
 
 #EXTINF:-1 tvg-chno="143" tvg-id="" tvg-logo="" group-title="New Added",FOX MOVIES HD
 rtp://239.1.1.211:9240
