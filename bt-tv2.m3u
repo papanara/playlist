@@ -1,5 +1,4 @@
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml
 
-
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="Intro Batutuang" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",Batutuang TV
+https://drive.google.com/uc?export=download&id=1mPXPs3X4y-7qH4Rgo7Sg5m5u2JFLQo2n
