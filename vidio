@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-name="OChannel" tvg-language="Indonesia" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/300px-Moji_blue.svg.png" group-title="Local Channel",Moji TV
+pipe:///usr/bin/env streamlink --stdout --default-stream 480p --url www.vidio.com/live/206-moji
+#EXTINF:-1 tvg-name="Champion TV 1" tvg-language="Indonesia" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210823114627" group-title="Premium Sports",Champions TV 1 HD
+pipe:///usr/bin/env streamlink --stdout --default-stream 480p --url www.vidio.com/live/6685-champions-tv-1 
+
