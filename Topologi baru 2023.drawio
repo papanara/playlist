@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T10:32:29.557Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PW0Vi4NNFYTb_JDxLRzt" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T10:37:12.456Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="F2wPPASWci511Xl1_Tli" version="21.0.2" type="github">
   <diagram name="Page-1" id="3aMt4eqgK3jxcraGz8zH">
-    <mxGraphModel dx="4077" dy="4063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5480" dy="4375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,8 +175,8 @@
         <mxCell id="-ap1lfuV_qFm05HsElQ9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="lSjnJ-uVdNnS_DPWnz_8-13" target="-ap1lfuV_qFm05HsElQ9-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="203" y="1090" />
-              <mxPoint x="170" y="1090" />
+              <mxPoint x="203" y="1070" />
+              <mxPoint x="170" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -379,19 +379,37 @@
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" target="IgmZhAGW-1RmJWMLsmaJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IgmZhAGW-1RmJWMLsmaJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" target="IgmZhAGW-1RmJWMLsmaJ-21" edge="1">
+        <mxCell id="IgmZhAGW-1RmJWMLsmaJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" target="IgmZhAGW-1RmJWMLsmaJ-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2470" y="450" />
-              <mxPoint x="2470" y="450" />
+              <mxPoint x="2286" y="450" />
+              <mxPoint x="2286" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IgmZhAGW-1RmJWMLsmaJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" target="IgmZhAGW-1RmJWMLsmaJ-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IgmZhAGW-1RmJWMLsmaJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" target="IgmZhAGW-1RmJWMLsmaJ-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2505" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0262lOBTKdrBV2GWPzuV-152" value="SC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IgmZhAGW-1RmJWMLsmaJ-28">
+          <mxGeometry x="0.7507" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0262lOBTKdrBV2GWPzuV-153" value="SC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IgmZhAGW-1RmJWMLsmaJ-28">
+          <mxGeometry x="0.0482" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" target="IgmZhAGW-1RmJWMLsmaJ-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2101" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-81" value="SC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IgmZhAGW-1RmJWMLsmaJ-33" vertex="1" connectable="0">
           <mxGeometry x="0.6807" y="-2" relative="1" as="geometry">
@@ -400,7 +418,7 @@
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2090" y="590" as="targetPoint" />
+            <mxPoint x="1906" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-80" value="SC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IgmZhAGW-1RmJWMLsmaJ-37" vertex="1" connectable="0">
@@ -408,37 +426,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IgmZhAGW-1RmJWMLsmaJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-10" target="IgmZhAGW-1RmJWMLsmaJ-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-10" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;6SC2LAN + Switch&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="1866" y="410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-12" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="500" width="50" height="40" as="geometry" />
+          <mxGeometry x="1826" y="500" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2150" y="490" width="50" height="45" as="geometry" />
+          <mxGeometry x="1966" y="490" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-14" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2240" y="560" width="50" height="45" as="geometry" />
+          <mxGeometry x="2056" y="560" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-15" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="540" width="50" height="45" as="geometry" />
+          <mxGeometry x="2216" y="540" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-16" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2180" y="630" width="50" height="45" as="geometry" />
+          <mxGeometry x="1996" y="630" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-17" target="IgmZhAGW-1RmJWMLsmaJ-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-17" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="600" width="50" height="45" as="geometry" />
+          <mxGeometry x="1866" y="600" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-18" target="IgmZhAGW-1RmJWMLsmaJ-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2330" y="509" />
+              <mxPoint x="2146" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -449,22 +464,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="495" width="50" height="45" as="geometry" />
+          <mxGeometry x="2076" y="495" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-19" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2350" y="475" width="50" height="45" as="geometry" />
+          <mxGeometry x="2166" y="475" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-20" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2150" y="335" width="50" height="45" as="geometry" />
+          <mxGeometry x="1966" y="335" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-21" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2570" y="490" width="50" height="45" as="geometry" />
+          <mxGeometry x="2310" y="480" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0262lOBTKdrBV2GWPzuV-154" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.883;exitY=-0.048;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-22" target="IgmZhAGW-1RmJWMLsmaJ-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-22" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="427.5" width="50" height="45" as="geometry" />
+          <mxGeometry x="2480" y="445" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-39" value="IPC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-cctv-128.png;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="2790" y="340" width="50" height="50" as="geometry" />
+          <mxGeometry x="2470" y="355" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="IgmZhAGW-1RmJWMLsmaJ-47" target="-ap1lfuV_qFm05HsElQ9-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -588,14 +606,16 @@
         <mxCell id="IgmZhAGW-1RmJWMLsmaJ-65" value="IPC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-cctv-128.png;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="900" y="-790" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-ap1lfuV_qFm05HsElQ9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="-ap1lfuV_qFm05HsElQ9-1" target="-ap1lfuV_qFm05HsElQ9-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-ap1lfuV_qFm05HsElQ9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="-ap1lfuV_qFm05HsElQ9-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="989" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-ap1lfuV_qFm05HsElQ9-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="145" y="1040" width="50" height="40" as="geometry" />
+          <mxGeometry x="145" y="1019" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ap1lfuV_qFm05HsElQ9-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="145" y="970" width="50" height="40" as="geometry" />
+          <mxGeometry x="145" y="950" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ap1lfuV_qFm05HsElQ9-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="632.5" width="50" height="40" as="geometry" />
@@ -730,7 +750,7 @@
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="gnZLgOalE0fUG6XXmiw2-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="-1810" as="targetPoint" />
+            <mxPoint x="762" y="-1810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="gnZLgOalE0fUG6XXmiw2-16" target="gnZLgOalE0fUG6XXmiw2-18" edge="1">
@@ -781,34 +801,34 @@
         <mxCell id="gnZLgOalE0fUG6XXmiw2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" parent="1" source="gnZLgOalE0fUG6XXmiw2-16" target="gnZLgOalE0fUG6XXmiw2-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="-1730" />
-              <mxPoint x="700" y="-1580" />
+              <mxPoint x="662" y="-1730" />
+              <mxPoint x="662" y="-1580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-16" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;6SC2LAN&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-1770" width="80" height="80" as="geometry" />
+          <mxGeometry x="692" y="-1770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-17" value="IPC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-cctv-128.png;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1290" y="-1770" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="710" y="-1660" width="50" height="60" as="geometry" />
+          <mxGeometry x="672" y="-1660" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-19" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="795" y="-1860" width="50" height="40" as="geometry" />
+          <mxGeometry x="757" y="-1860" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-20" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="796" y="-2040" width="50" height="40" as="geometry" />
+          <mxGeometry x="758" y="-2040" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="gnZLgOalE0fUG6XXmiw2-22" target="gnZLgOalE0fUG6XXmiw2-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-22" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="745" y="-1480" width="50" height="40" as="geometry" />
+          <mxGeometry x="707" y="-1480" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-23" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-1460" width="50" height="40" as="geometry" />
+          <mxGeometry x="622" y="-1460" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-29" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="992" y="-1720" width="50" height="40" as="geometry" />
@@ -825,8 +845,8 @@
         <mxCell id="gnZLgOalE0fUG6XXmiw2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="gnZLgOalE0fUG6XXmiw2-37" target="gnZLgOalE0fUG6XXmiw2-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="-1570" />
-              <mxPoint x="438" y="-1490" />
+              <mxPoint x="400" y="-1570" />
+              <mxPoint x="400" y="-1490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -846,28 +866,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-37" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;4SC4LAN&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-1610" width="80" height="80" as="geometry" />
+          <mxGeometry x="312" y="-1610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-40" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-1560" width="50" height="40" as="geometry" />
+          <mxGeometry x="122" y="-1560" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-41" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-1510" width="50" height="40" as="geometry" />
+          <mxGeometry x="272" y="-1510" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="gnZLgOalE0fUG6XXmiw2-42" target="gnZLgOalE0fUG6XXmiw2-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-42" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="400" y="-1450" width="50" height="40" as="geometry" />
+          <mxGeometry x="362" y="-1450" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-43" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-1570" width="50" height="40" as="geometry" />
+          <mxGeometry x="252" y="-1570" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-44" value="IPC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-cctv-128.png;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="410" y="-1675" width="50" height="50" as="geometry" />
+          <mxGeometry x="372" y="-1675" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gnZLgOalE0fUG6XXmiw2-50" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-1390" width="50" height="40" as="geometry" />
+          <mxGeometry x="292" y="-1390" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0262lOBTKdrBV2GWPzuV-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-1380" width="50" height="40" as="geometry" />
