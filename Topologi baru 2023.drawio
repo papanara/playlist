@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T05:03:52.502Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NVX7_fNbYzkIvcpnKEJ7" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-21T05:12:59.332Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1-sKJqPXifkhkYJDAYYN" version="21.0.6" type="github" pages="2">
   <diagram name="Topologi" id="3aMt4eqgK3jxcraGz8zH">
-    <mxGraphModel dx="2970" dy="3091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="2817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1436,10 +1436,10 @@
         <mxCell id="qPdzI6asosMZqQIs2R56-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qPdzI6asosMZqQIs2R56-9">
           <mxGeometry width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-9">
+        <mxCell id="qPdzI6asosMZqQIs2R56-2" value="IN" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-9">
           <mxGeometry x="80" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-9">
+        <mxCell id="qPdzI6asosMZqQIs2R56-3" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-9">
           <mxGeometry x="130" y="10" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPdzI6asosMZqQIs2R56-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-9">
@@ -1460,22 +1460,22 @@
         <mxCell id="qPdzI6asosMZqQIs2R56-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
           <mxGeometry width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
+        <mxCell id="qPdzI6asosMZqQIs2R56-12" value="IN" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
           <mxGeometry x="80" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
+        <mxCell id="qPdzI6asosMZqQIs2R56-13" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
           <mxGeometry x="130" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
+        <mxCell id="qPdzI6asosMZqQIs2R56-14" value="4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
           <mxGeometry x="230" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
+        <mxCell id="qPdzI6asosMZqQIs2R56-15" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
           <mxGeometry x="180" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
+        <mxCell id="qPdzI6asosMZqQIs2R56-16" value="5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
           <mxGeometry x="280" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qPdzI6asosMZqQIs2R56-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
+        <mxCell id="qPdzI6asosMZqQIs2R56-17" value="SW" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qPdzI6asosMZqQIs2R56-10">
           <mxGeometry x="20" y="10" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
