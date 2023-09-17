@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spotv_big.png" group-title="Sport",705 SPOTV
+rtp://@239.1.1.132:8761
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spotv2_big.png" group-title="Sport",706 SPOTV 2
+rtp://@239.1.1.198:9157
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel",915 METRO TV HD
+rtp://@239.1.2.2:7986
